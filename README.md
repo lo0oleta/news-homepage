@@ -1,4 +1,4 @@
-# Frontend Mentor - News homepage solution
+# KT Track 2 - News homepage solution
 
 This is a solution to the [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). 
 
@@ -40,9 +40,13 @@ Users should be able to:
 
 
 ## Installation
--git clone https://github.com/lo0oleta/news-homepage.git
--yarn 
--yarn dev
+git clone https://github.com/lo0oleta/news-homepage.git
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+
 
 
 ## My process
