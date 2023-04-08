@@ -12,9 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+ 
 
   <h3 align="center">KT</h3>
 
@@ -171,7 +169,7 @@ Project Link:(https://github.com/lo0oleta/news-homepage)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Those resources were helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 
 * [Chakra Templates](https://chakra-templates.dev/)
