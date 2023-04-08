@@ -181,13 +181,13 @@ Those resources were helpful and would like to give credit to. I've included a f
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]:  https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]:  https://img.shields.io/badge/Contributors-1-green
 [contributors-url]: https://github.com/lo0oleta/news-homepage/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/badge/Forks-0-blue
 [forks-url]: https://github.com/lo0oleta/news-homepage/forks
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/badge/Stars-0-blue
 [stars-url]: https://github.com/lo0oleta/news-homepage/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/badge/Issues-0-blue
 [issues-url]: https://github.com/lo0oleta/news-homepage/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/alaaalnous
