@@ -81,7 +81,7 @@ This section should list frameworks/libraries used in the project.
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Chakra-ui][React.js]][Chakra-url]
+* [![Chakra-ui][chakra.ui]][Chakra-url]
 
 
 
@@ -101,13 +101,16 @@ To get a local copy up and running follow these simple example steps.
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Clone the repo
-   
+      ```
+
    git clone https://github.com/lo0oleta/news-homepage.git
    ```
 3. Install Yarn packages
+   ```
 
    yarn
-   ```
+    ```
+
 4. Run the development server
    ```npm run dev
      # or
@@ -181,8 +184,8 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://github.com/lo0oleta/news-homepage/graphs/contributors
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-shield]:  https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/lo0oleta/news-homepage/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/lo0oleta/news-homepage/forks
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
