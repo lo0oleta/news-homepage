@@ -1,11 +1,13 @@
 <a name="readme-top"></a>
+<div align="center">
+
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+/>
 
 
 <!-- PROJECT LOGO -->
@@ -189,7 +191,7 @@ Those resources were helpful and would like to give credit to. I've included a f
 [stars-url]: https://github.com/lo0oleta/news-homepage/stargazers
 [issues-shield]: https://img.shields.io/badge/Issues-0-blue
 [issues-url]: https://github.com/lo0oleta/news-homepage/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg
 [linkedin-url]: https://www.linkedin.com/in/alaaalnous
 [product-screenshot]: images/screenshot_desktop.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
